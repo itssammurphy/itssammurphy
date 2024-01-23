@@ -4,12 +4,13 @@
 <p align="center">(he/him)
 <br />
 <b>I am a full-stack developer who is excited about all things tech.</b></p>
+[MagnificentAI](https://twitter.com/magnificent_ai) is my current high-priority project, and it is set for release on February 1, 2024
 
 <div align="center">
 
 📍 Melbourne, Australia 🇦🇺
 
-🔭 I'm currently working on **a smart study tool**
+🔭 I'm currently working on an **AI-powered marketing suite**
 
 🌱 I am currently learning **AngularJS, AWS**
 
