@@ -3,7 +3,7 @@
 
 <p align="center">(he/him)
 <br />
-<b>I am a full-stack developer who is excited about all things tech.</b></p>
+<b>Data Science @ The University of Melbourne by day, Full-stack developer by night</b></p>
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 
 🌱 I am currently learning **AngularJS, AWS**
 
-💬 Ask me about **React, Supabase, or anything** [here](https://github.com/itssammurphy/itssammurphy/issues)
+💬 Ask me about **React, Postgres, or anything** [here](https://github.com/itssammurphy/itssammurphy/issues)
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sam-murphy-8772b0283/), [X](https://twitter.com/itssam_murphy), [Email](mailto:me@itssammurphy.com)
 
