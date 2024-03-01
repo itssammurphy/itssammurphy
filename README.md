@@ -9,13 +9,11 @@
 
 📍 Melbourne, Australia 🇦🇺
 
-🔭 I'm currently working on an **AI-powered marketing suite**
-
 🌱 I am currently learning **AngularJS, AWS**
 
 💬 Ask me about **React, Postgres, or anything** [here](https://github.com/itssammurphy/itssammurphy/issues)
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sam-murphy-8772b0283/), [X](https://twitter.com/itssam_murphy), [Email](mailto:me@itssammurphy.com)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sam-murphy-8772b0283/), [X](https://twitter.com/itssam_murphy)
 
 <h2>My Stack 🥞</h2>
 </div>
