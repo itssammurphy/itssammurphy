@@ -7,6 +7,8 @@
 
 <div align="center">
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=samuel.m1338&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=3796ae&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=samuel.m1338&redirect=true)
+
 📍 Melbourne, Australia 🇦🇺
 
 🌱 I am currently learning **AngularJS, AWS**
